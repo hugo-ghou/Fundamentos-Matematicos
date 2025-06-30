@@ -1,4 +1,4 @@
-# Fundamentos Matemáticos para C.C.
+# Fundamentos Matemáticos para CC
 
 📘 Este repositório contém materiais da disciplina de Fundamentos Matemáticos.
 
