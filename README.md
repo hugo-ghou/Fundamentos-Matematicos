@@ -1,4 +1,4 @@
-# Geometria Analítica
+# Fundamentos Matemáticos para C.C.
 
 📘 Este repositório contém materiais da disciplina de Fundamentos Matemáticos.
 
